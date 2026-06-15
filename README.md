@@ -2,7 +2,7 @@
 
 Aplicação React Native para gerenciamento de alunos e mensalidades escolares.
 
-## Desafio da Semana - React Native (Nível Júnior)
+## Desafio da Semana - React Native
 
 ### Funcionalidades
 
