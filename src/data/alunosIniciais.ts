@@ -1,4 +1,4 @@
-import { Aluno } from '../types/Alunos';
+import { Aluno } from '../types/Aluno';
 
 export const alunosIniciais: Aluno[] = [
   { id: 1, nome: 'João Silva', idade: 16, mensalidadePaga: true },
